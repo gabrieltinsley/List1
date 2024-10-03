@@ -789,7 +789,7 @@ Define tests for at least 21 change scenarios, in addition to the 3 given as exa
 34) [A,B,C] -> removeLast() -> [A,B]
 35) [A,B,C] -> remove(A) -> [B,C]
 36) [A,B,C] -> remove(B) -> [A,C]
-Tests:
+  Tests:
     addToFront(D) throws no Exceptions
     addToRear(D) throws no Exceptions
     addAfter(D, A) throws no Exceptions
